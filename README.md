@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview of Project
-Jeremy is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
+Jeremy needed assistance with a new project for AutosRUs’ newest prototype, the MechaCar. This was suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ wanted the data analytics team to review the production data for insights that may help the manufacturing team. This project is all about analyzing data and creating appropriate documentation of such.
 
 ## Linear Regression to predict MPG
 
