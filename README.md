@@ -49,7 +49,7 @@ Lot 2
 lot 3
 ![lot3_ttest](https://user-images.githubusercontent.com/106715923/191123307-ca98da88-9d63-49e6-9bb4-4be5a6ed726c.png)
 
-
+Overall summary for the above tests, Lot 1 and Lot 2 show a similarity in the sample means and median. The main difference that's outlined in the standard deviation, which should that they;re slightly skewed, but positive. Lot 3 has a large difference both vairance and standard deviation. Each lot (1,2, and 3) all have their alternative hypothesis as true mean, not equal to 1500.
 
 ## Study Design: mechaCar vs. Competition
 - What metric or metrics are you going to test? 'd try to test city and highway fuel effieincy, to include maintenance cost.
